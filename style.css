@@ -1,0 +1,31 @@
+
+
+/*
+#inner-circle-centering {
+    margin: auto;
+    width:586px;
+    height:588px;
+}
+
+#outer-circle-centering {
+   position: absolute;
+    width: 100%;
+}
+*/
+
+#circle {
+    width: 500px;
+	height: 500px;
+	background: red;
+	-moz-border-radius: 250px;
+	-webkit-border-radius: 250px;
+	border-radius: 250px;
+    position:absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;   
+}
+
+
